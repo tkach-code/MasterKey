@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "c59579297110eed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "736ea379748a63ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165789996fe38fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b7b4b52519f5c6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6591a636de189e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2da167a31817473",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cbbf5c77b933c5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01b7a1936b661ac8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c3419b90827d5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e735eeb7479a32e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d4b72e9f507265",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "d6de39d49e2d2b96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "7c970f7614d15b12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "613ab7af3c8e7e15",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "de9f46b45ec39b6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "165789996fe38fde",
+  "lastOpenFiles": [
+    "Obsidian/Obsidian Organization.md",
+    "Obsidian/Obsidian Overview.md",
+    "Obsidian/Obsidian Plugins.md",
+    "Home.md",
+    "CLAUDE.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "2026-02-14.md",
+    "CLAUDE.md.tmp.39746.1771075473327",
+    "CLAUDE.md.tmp.39746.1771075470426",
+    "CLAUDE.md.tmp.39746.1771075467561",
+    "CLAUDE.md.tmp.39746.1771075463468",
+    "CLAUDE.md.tmp.39746.1771075459986",
+    "Home.md.tmp.39746.1771075457737",
+    "Home.md.tmp.39746.1771075452072",
+    "Obsidian/Obsidian Tips and Workflows.md",
+    "Obsidian/Obsidian Organization.md.tmp.39746.1771075396394",
+    "Obsidian/Obsidian Navigation and Search.md",
+    "Obsidian/Obsidian Navigation and Search.md.tmp.39746.1771075376238",
+    "Obsidian/Obsidian Markdown and Linking.md",
+    "Vim/Vim Navigation.md",
+    "Vim/Vim Search and Replace.md",
+    "Vim/Vim Plugins.md",
+    "Vim/Vim Modes.md",
+    "Vim/Vim Overview.md",
+    "Git/Git Overview.md",
+    "Vim/Vim Advanced Techniques.md",
+    "Vim/Vim Configuration.md",
+    "Vim/Vim Registers and Macros.md",
+    "Vim/Vim Buffers Windows Tabs.md",
+    "Vim/Vim Editing.md",
+    "Git/Git Troubleshooting.md",
+    "Git/Git Workflows.md",
+    "Git/Git Advanced Techniques.md",
+    "Git/Git Log and History.md",
+    "Git/Git Stash and Clean.md"
+  ]
+}
