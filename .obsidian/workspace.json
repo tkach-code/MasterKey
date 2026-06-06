@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "736ea379748a63ae",
+        "id": "397f3f8605bc2abf",
         "type": "tabs",
         "children": [
           {
-            "id": "165789996fe38fde",
+            "id": "03a861012dcfcaad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "New tab"
             }
           }
         ]
@@ -183,43 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "165789996fe38fde",
+  "active": "03a861012dcfcaad",
   "lastOpenFiles": [
+    "Vim/LazyVim.md",
+    "Tmux/Tmux Sessions.md",
+    "Home.md.tmp.48971.e0c4b9ba4990",
+    "Vim/LazyVim.md.tmp.48971.53f62ede0ce5",
+    "Tmux/Tmux Overview.md",
+    "Shell/Shell Basics.md",
+    "CLAUDE.md",
+    "Shell/Shell Basics.md.tmp.36961.a8ebfeec3484",
+    "Vim/Vim Overview.md",
+    "Home.md.tmp.36961.e675493cb205",
+    "Shell/Shell Basics.md.tmp.36961.6bdd4741be9d",
+    "Shell",
+    "Tmux/Tmux Panes.md",
+    "Tmux/Tmux Windows.md",
+    "Home.md.tmp.36961.836a21669250",
+    "Home.md.tmp.36961.8f26e01d5d9c",
+    "Tmux/Tmux Advanced Techniques.md",
+    "Tmux/Tmux Advanced Techniques.md.tmp.36961.1ef8e9c4684e",
+    "Tmux/Tmux Plugins.md",
+    "Tmux/Tmux Plugins.md.tmp.36961.702f9e0fba1e",
+    "Tmux/Tmux Configuration.md",
+    "Tmux/Tmux Copy Mode.md",
+    "Tmux/Tmux Key Bindings.md",
+    "Home.md",
+    "README.md",
     "Obsidian/Obsidian Organization.md",
     "Obsidian/Obsidian Overview.md",
     "Obsidian/Obsidian Plugins.md",
-    "Home.md",
-    "CLAUDE.md",
     "Untitled.canvas",
-    "Untitled.base",
     "2026-02-14.md",
-    "CLAUDE.md.tmp.39746.1771075473327",
-    "CLAUDE.md.tmp.39746.1771075470426",
-    "CLAUDE.md.tmp.39746.1771075467561",
-    "CLAUDE.md.tmp.39746.1771075463468",
-    "CLAUDE.md.tmp.39746.1771075459986",
-    "Home.md.tmp.39746.1771075457737",
-    "Home.md.tmp.39746.1771075452072",
     "Obsidian/Obsidian Tips and Workflows.md",
-    "Obsidian/Obsidian Organization.md.tmp.39746.1771075396394",
     "Obsidian/Obsidian Navigation and Search.md",
-    "Obsidian/Obsidian Navigation and Search.md.tmp.39746.1771075376238",
     "Obsidian/Obsidian Markdown and Linking.md",
     "Vim/Vim Navigation.md",
     "Vim/Vim Search and Replace.md",
-    "Vim/Vim Plugins.md",
-    "Vim/Vim Modes.md",
-    "Vim/Vim Overview.md",
-    "Git/Git Overview.md",
-    "Vim/Vim Advanced Techniques.md",
-    "Vim/Vim Configuration.md",
-    "Vim/Vim Registers and Macros.md",
-    "Vim/Vim Buffers Windows Tabs.md",
-    "Vim/Vim Editing.md",
-    "Git/Git Troubleshooting.md",
-    "Git/Git Workflows.md",
-    "Git/Git Advanced Techniques.md",
-    "Git/Git Log and History.md",
-    "Git/Git Stash and Clean.md"
+    "Vim/Vim Plugins.md"
   ]
 }

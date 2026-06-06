@@ -1,73 +1,41 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # MasterKey - Second Brain for Git, Vim & Obsidian
 
 ## Purpose
 
-This is a personal knowledge base (second brain) for learning and practicing Git, Vim, and Obsidian skills. It is managed with Obsidian for navigation and cross-linking.
+This is a personal knowledge base (second brain) for learning and practicing Git, Vim, Obsidian, and Tmux skills. It is managed with Obsidian for navigation and cross-linking. The vault is also a Git repository so the user can practice Git commands directly on it.
 
 ## Structure
 
 ```
 MasterKey/
-├── Home.md              # Dashboard / Map of Content
-├── Git/                 # Everything about Git
-│   ├── Git Overview.md
-│   ├── Git Setup and Config.md
-│   ├── Git Basic Commands.md
-│   ├── Git Branching.md
-│   ├── Git Merging and Rebasing.md
-│   ├── Git Remote Repositories.md
-│   ├── Git Stash and Clean.md
-│   ├── Git Log and History.md
-│   ├── Git Advanced Techniques.md
-│   ├── Git Workflows.md
-│   └── Git Troubleshooting.md
-├── Vim/                 # Everything about Vim
-│   ├── Vim Overview.md
-│   ├── Vim Modes.md
-│   ├── Vim Navigation.md
-│   ├── Vim Editing.md
-│   ├── Vim Search and Replace.md
-│   ├── Vim Buffers Windows Tabs.md
-│   ├── Vim Registers and Macros.md
-│   ├── Vim Configuration.md
-│   ├── Vim Plugins.md
-│   └── Vim Advanced Techniques.md
-├── Obsidian/             # Everything about Obsidian
-│   ├── Obsidian Overview.md
-│   ├── Obsidian Markdown and Linking.md
-│   ├── Obsidian Navigation and Search.md
-│   ├── Obsidian Organization.md
-│   ├── Obsidian Plugins.md
-│   └── Obsidian Tips and Workflows.md
+├── Home.md              # Dashboard / Map of Content (main entry point)
+├── Git/                 # 11 notes covering Git from basics to advanced
+├── Vim/                 # 10 notes covering Vim from modes to scripting
+├── Obsidian/            # 6 notes covering Obsidian features and workflows
+└── Tmux/                # Tmux notes (new section, may be empty)
 ```
+
+`Home.md` contains a reference table linking to every note and serves as the Map of Content (MOC). When adding new notes, update `Home.md` to include the new link.
 
 ## Conventions
 
 - All notes use Obsidian wiki-links `[[Note Name]]` for cross-referencing
-- Tags use `#git`, `#vim`, `#obsidian`, `#beginner`, `#intermediate`, `#advanced`
-- Code blocks use the appropriate language identifier (```bash, ```vim, etc.)
+- Tags: `#git`, `#vim`, `#obsidian`, `#tmux`, `#beginner`, `#intermediate`, `#advanced`
+- Code blocks use the appropriate language identifier (` ```bash `, ` ```vim `, ` ```tmux `, etc.)
 - Each note starts with a brief summary, then detailed content, then related links
-- Command tables use: Command | Description | Example format
+- Command tables use: `Command | Description | Example` format
 
 ## How to Help
 
-When the user asks to:
-
-- **Add a new topic**: Create a `.md` file in the appropriate folder, use the same formatting conventions, and add wiki-links to/from related notes and Home.md
+- **Add a new topic**: Create a `.md` file in the appropriate folder using the same formatting conventions, add wiki-links to/from related notes, and add an entry to `Home.md`
 - **Update a note**: Preserve existing wiki-links and tag conventions
 - **Add practice exercises**: Add an `## Exercises` section at the bottom of the relevant note
-- **Create cheat sheets**: Use compact table format with Command | Description columns
-- **Reorganize**: Keep the folder structure flat within Git/, Vim/, and Obsidian/ — avoid deep nesting
-
-## Git Repository
-
-This vault is intended to also be a Git repository for practicing Git commands. When initializing:
-
-```bash
-git init
-git add -A
-git commit -m "Initial commit: MasterKey vault structure"
-```
+- **Create cheat sheets**: Use compact table format with `Command | Description` columns
+- **Reorganize**: Keep the folder structure flat within each topic folder — avoid deep nesting
 
 ## Important
 

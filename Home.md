@@ -1,6 +1,6 @@
 # MasterKey
 
-Welcome to your second brain for mastering **Git**, **Vim**, and **Obsidian**.
+Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and **Tmux**.
 
 ---
 
@@ -40,6 +40,7 @@ Welcome to your second brain for mastering **Git**, **Vim**, and **Obsidian**.
 | [[Vim Configuration]] | vimrc setup, options, mappings |
 | [[Vim Plugins]] | Plugin managers, essential plugins |
 | [[Vim Advanced Techniques]] | Marks, folds, autocommands, scripting |
+| [[LazyVim]] | Neovim IDE distro built on lazy.nvim |
 
 ---
 
@@ -58,4 +59,32 @@ Welcome to your second brain for mastering **Git**, **Vim**, and **Obsidian**.
 
 ---
 
-#git #vim #obsidian
+## Tmux
+
+> Terminal multiplexer for persistent, multi-pane terminal workspaces.
+
+| Note | Description |
+|------|-------------|
+| [[Tmux Overview]] | What Tmux is, core hierarchy, quick start |
+| [[Tmux Sessions]] | Create, attach, detach, and manage sessions |
+| [[Tmux Windows]] | Tabs inside a session |
+| [[Tmux Panes]] | Split screens, layouts, resizing |
+| [[Tmux Key Bindings]] | Full shortcut reference |
+| [[Tmux Copy Mode]] | Scroll history, search, copy text |
+| [[Tmux Configuration]] | .tmux.conf setup and sensible defaults |
+| [[Tmux Plugins]] | TPM and essential plugins |
+| [[Tmux Advanced Techniques]] | Scripting, hooks, Vim integration |
+
+---
+
+## Shell
+
+> Command-line interpreter and terminal environment fundamentals.
+
+| Note | Description |
+|------|-------------|
+| [[Shell Basics]] | Identify your shell, change default shell |
+
+---
+
+#git #vim #obsidian #tmux
