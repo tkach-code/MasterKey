@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "397f3f8605bc2abf",
+        "id": "e7021deb1c51d8b8",
         "type": "tabs",
         "children": [
           {
-            "id": "03a861012dcfcaad",
+            "id": "9fcc03df5e24c291",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "03a861012dcfcaad",
+  "active": "9fcc03df5e24c291",
   "lastOpenFiles": [
+    "Shell/Disk Performance Testing.md",
+    "Home.md",
+    "Obsidian/Obsidian Overview.md",
+    "Home.md.tmp.11951.ea9e8688544d",
+    "Shell/Disk Performance Testing.md.tmp.11951.ecd049127bdf",
+    "Obsidian/Obsidian Markdown and Linking.md",
     "Vim/LazyVim.md",
     "Tmux/Tmux Sessions.md",
     "Home.md.tmp.48971.e0c4b9ba4990",
@@ -198,24 +204,18 @@
     "Home.md.tmp.36961.836a21669250",
     "Home.md.tmp.36961.8f26e01d5d9c",
     "Tmux/Tmux Advanced Techniques.md",
-    "Tmux/Tmux Advanced Techniques.md.tmp.36961.1ef8e9c4684e",
     "Tmux/Tmux Plugins.md",
-    "Tmux/Tmux Plugins.md.tmp.36961.702f9e0fba1e",
     "Tmux/Tmux Configuration.md",
     "Tmux/Tmux Copy Mode.md",
     "Tmux/Tmux Key Bindings.md",
-    "Home.md",
     "README.md",
     "Obsidian/Obsidian Organization.md",
-    "Obsidian/Obsidian Overview.md",
     "Obsidian/Obsidian Plugins.md",
     "Untitled.canvas",
     "2026-02-14.md",
     "Obsidian/Obsidian Tips and Workflows.md",
     "Obsidian/Obsidian Navigation and Search.md",
-    "Obsidian/Obsidian Markdown and Linking.md",
     "Vim/Vim Navigation.md",
-    "Vim/Vim Search and Replace.md",
-    "Vim/Vim Plugins.md"
+    "Vim/Vim Search and Replace.md"
   ]
 }

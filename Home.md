@@ -84,6 +84,7 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 | Note | Description |
 |------|-------------|
 | [[Shell Basics]] | Identify your shell, change default shell |
+| [[Disk Performance Testing]] | Benchmark HDD/SSD read and write speed with dd, hdparm, fio, iostat |
 
 ---
 
