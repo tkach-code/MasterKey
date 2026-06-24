@@ -72,7 +72,7 @@ ssh username@server-ip
 ```bash
 ssh username@server-ip
 ```
-
+	
 You should land in a shell with **no password prompt** (a passphrase prompt for the key itself is normal if you set one — see `ssh-agent` below to avoid retyping it).
 
 ## If It Still Asks for a Password
