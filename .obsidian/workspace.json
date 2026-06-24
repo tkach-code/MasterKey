@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell/Disk Performance Testing.md",
+                "file": "WezTerm/WezTerm Key Bindings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disk Performance Testing"
+              "title": "WezTerm Key Bindings"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "bcbd7712291bf920",
   "lastOpenFiles": [
+    "WezTerm/WezTerm Panes and Tabs.md",
+    "Home.md.tmp.31608.6253fe49e000",
+    "Home.md.tmp.31608.8cc3d223bf0b",
+    "WezTerm/WezTerm Tips and Workflows.md",
+    "WezTerm/WezTerm Tips and Workflows.md.tmp.31608.b8f03bc3c2ff",
+    "WezTerm/WezTerm Multiplexing and Workspaces.md",
+    "WezTerm/WezTerm Multiplexing and Workspaces.md.tmp.31608.dcf813e7a352",
+    "WezTerm/WezTerm Overview.md",
+    "WezTerm/WezTerm Color Schemes and Appearance.md",
+    "WezTerm/WezTerm Color Schemes and Appearance.md.tmp.31608.22e177bf0e97",
+    "WezTerm/WezTerm Panes and Tabs.md.tmp.31608.694398b4e30a",
+    "WezTerm/WezTerm Key Bindings.md",
+    "WezTerm/WezTerm Key Bindings.md.tmp.31608.2a28c6110493",
+    "WezTerm/WezTerm Configuration.md",
+    "WezTerm/WezTerm Configuration.md.tmp.31608.f181993bf8bf",
+    "README.md",
+    "WezTerm/WezTerm Overview.md.tmp.31608.b968698e60d3",
     "Shell/Disk Performance Testing.md",
     "Home.md",
     "Obsidian/Obsidian Overview.md",
     "Home.md.tmp.11951.ea9e8688544d",
-    "Shell/Disk Performance Testing.md.tmp.11951.ecd049127bdf",
     "Obsidian/Obsidian Markdown and Linking.md",
     "Vim/LazyVim.md",
     "Tmux/Tmux Sessions.md",
-    "Home.md.tmp.48971.e0c4b9ba4990",
-    "Vim/LazyVim.md.tmp.48971.53f62ede0ce5",
     "Tmux/Tmux Overview.md",
     "Shell/Shell Basics.md",
     "CLAUDE.md",
-    "Shell/Shell Basics.md.tmp.36961.a8ebfeec3484",
     "Vim/Vim Overview.md",
-    "Home.md.tmp.36961.e675493cb205",
-    "Shell/Shell Basics.md.tmp.36961.6bdd4741be9d",
-    "Shell",
     "Tmux/Tmux Panes.md",
     "Tmux/Tmux Windows.md",
-    "Home.md.tmp.36961.836a21669250",
-    "Home.md.tmp.36961.8f26e01d5d9c",
     "Tmux/Tmux Advanced Techniques.md",
     "Tmux/Tmux Plugins.md",
     "Tmux/Tmux Configuration.md",
     "Tmux/Tmux Copy Mode.md",
     "Tmux/Tmux Key Bindings.md",
-    "README.md",
-    "Obsidian/Obsidian Organization.md",
-    "Obsidian/Obsidian Plugins.md",
-    "Untitled.canvas",
-    "2026-02-14.md",
-    "Obsidian/Obsidian Tips and Workflows.md",
-    "Obsidian/Obsidian Navigation and Search.md",
-    "Vim/Vim Navigation.md",
-    "Vim/Vim Search and Replace.md"
+    "Untitled.canvas"
   ]
 }

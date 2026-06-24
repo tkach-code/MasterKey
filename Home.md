@@ -77,6 +77,22 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 
 ---
 
+## WezTerm
+
+> GPU-accelerated, Lua-configured terminal emulator and multiplexer.
+
+| Note | Description |
+|------|-------------|
+| [[WezTerm Overview]] | What WezTerm is, installation, learning path |
+| [[WezTerm Configuration]] | The `.wezterm.lua` file, structure, reload behavior |
+| [[WezTerm Key Bindings]] | Default shortcuts and how to remap them |
+| [[WezTerm Panes and Tabs]] | Splitting, navigating, and resizing the window |
+| [[WezTerm Color Schemes and Appearance]] | Fonts, themes, opacity, padding |
+| [[WezTerm Multiplexing and Workspaces]] | Domains, workspaces, SSH, Tmux comparison |
+| [[WezTerm Tips and Workflows]] | Copy mode, quick select, launcher, shell integration |
+
+---
+
 ## Shell
 
 > Command-line interpreter and terminal environment fundamentals.
@@ -88,4 +104,4 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 
 ---
 
-#git #vim #obsidian #tmux
+#git #vim #obsidian #tmux #wezterm
