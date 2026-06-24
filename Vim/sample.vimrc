@@ -9,7 +9,7 @@ syntax on                   " syntax highlighting
 
 " ── Line Numbers ─────────────────────────────────────────────
 set number                  " absolute line numbers
-set relativenumber          " relative numbers (hybrid mode with 'number')
+" set relativenumber          " relative numbers (hybrid mode with 'number')
 
 " ── Indentation ──────────────────────────────────────────────
 set tabstop=4               " tab = 4 visual spaces
