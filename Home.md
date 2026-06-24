@@ -41,6 +41,7 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 | [[Vim Plugins]] | Plugin managers, essential plugins |
 | [[Vim Advanced Techniques]] | Marks, folds, autocommands, scripting |
 | [[LazyVim]] | Neovim IDE distro built on lazy.nvim |
+| [[Vim Setup on Debian]] | Full setup guide for Debian-based systems |
 
 ---
 
