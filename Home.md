@@ -93,6 +93,19 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 
 ---
 
+## SSH
+
+> Secure remote login and passwordless key-based authentication.
+
+| Note | Description |
+|------|-------------|
+| [[SSH Overview]] | Client/server model, quick connect, why use keys |
+| [[SSH Key Generation]] | `ssh-keygen`, key types, where each file goes |
+| [[SSH Passwordless Login]] | Installing your public key, `ssh-copy-id`, fixing prompts |
+| [[SSH Config and Troubleshooting]] | Host aliases, `ssh-agent`, common errors |
+
+---
+
 ## Shell
 
 > Command-line interpreter and terminal environment fundamentals.
@@ -104,4 +117,4 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 
 ---
 
-#git #vim #obsidian #tmux #wezterm
+#git #vim #obsidian #tmux #wezterm #ssh

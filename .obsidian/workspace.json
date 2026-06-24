@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WezTerm/WezTerm Key Bindings.md",
+                "file": "SSH/SSH Key Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WezTerm Key Bindings"
+              "title": "SSH Key Generation"
             }
           }
         ]
@@ -185,27 +185,32 @@
   },
   "active": "bcbd7712291bf920",
   "lastOpenFiles": [
+    "SSH/SSH Passwordless Login.md.tmp.31608.af7ce6bce6c1",
+    "SSH/SSH Passwordless Login.md.tmp.31608.9c8ab17d8896",
+    "SSH/SSH Overview.md.tmp.31608.146931d771fb",
+    "SSH/SSH Key Generation.md.tmp.31608.a2f4178af13c",
+    "SSH/SSH Key Generation.md.tmp.31608.864caf8a9fbd",
+    "SSH/SSH Overview.md",
+    "Home.md",
+    "Home.md.tmp.31608.e34ba8228034",
+    "Home.md.tmp.31608.79ee1eb0f956",
+    "SSH/SSH Config and Troubleshooting.md",
+    "SSH/SSH Config and Troubleshooting.md.tmp.31608.8ff816da8b48",
+    "SSH/SSH Passwordless Login.md",
+    "SSH/SSH Passwordless Login.md.tmp.31608.8c7636b8a0ce",
+    "SSH/SSH Key Generation.md",
+    "SSH/SSH Key Generation.md.tmp.31608.db0cddbd566b",
+    "SSH/SSH Overview.md.tmp.31608.906e45d9f85e",
+    "WezTerm/WezTerm Key Bindings.md",
     "WezTerm/WezTerm Panes and Tabs.md",
-    "Home.md.tmp.31608.6253fe49e000",
-    "Home.md.tmp.31608.8cc3d223bf0b",
     "WezTerm/WezTerm Tips and Workflows.md",
-    "WezTerm/WezTerm Tips and Workflows.md.tmp.31608.b8f03bc3c2ff",
     "WezTerm/WezTerm Multiplexing and Workspaces.md",
-    "WezTerm/WezTerm Multiplexing and Workspaces.md.tmp.31608.dcf813e7a352",
     "WezTerm/WezTerm Overview.md",
     "WezTerm/WezTerm Color Schemes and Appearance.md",
-    "WezTerm/WezTerm Color Schemes and Appearance.md.tmp.31608.22e177bf0e97",
-    "WezTerm/WezTerm Panes and Tabs.md.tmp.31608.694398b4e30a",
-    "WezTerm/WezTerm Key Bindings.md",
-    "WezTerm/WezTerm Key Bindings.md.tmp.31608.2a28c6110493",
     "WezTerm/WezTerm Configuration.md",
-    "WezTerm/WezTerm Configuration.md.tmp.31608.f181993bf8bf",
     "README.md",
-    "WezTerm/WezTerm Overview.md.tmp.31608.b968698e60d3",
     "Shell/Disk Performance Testing.md",
-    "Home.md",
     "Obsidian/Obsidian Overview.md",
-    "Home.md.tmp.11951.ea9e8688544d",
     "Obsidian/Obsidian Markdown and Linking.md",
     "Vim/LazyVim.md",
     "Tmux/Tmux Sessions.md",
@@ -216,10 +221,6 @@
     "Tmux/Tmux Panes.md",
     "Tmux/Tmux Windows.md",
     "Tmux/Tmux Advanced Techniques.md",
-    "Tmux/Tmux Plugins.md",
-    "Tmux/Tmux Configuration.md",
-    "Tmux/Tmux Copy Mode.md",
-    "Tmux/Tmux Key Bindings.md",
     "Untitled.canvas"
   ]
 }
