@@ -92,6 +92,7 @@ git config --global core.excludesfile ~/.gitignore_global
 
 - [[Git Overview]] - Core concepts
 - [[Git Basic Commands]] - Start using Git
+- [[Overview\|Chocolatey Overview]] - Install Git on Windows with `choco install git`
 - [[Home]]
 
 #git #beginner

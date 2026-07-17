@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1fe1b903314e22a",
+        "id": "38b9a4d4a68049ee",
         "type": "tabs",
         "children": [
           {
-            "id": "bcbd7712291bf920",
+            "id": "474674de9ab4e37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/SSH Passwordless Login.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH Passwordless Login"
+              "title": "Home"
             }
           }
         ]
@@ -183,8 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "bcbd7712291bf920",
+  "active": "474674de9ab4e37b",
   "lastOpenFiles": [
+    "WezTerm/WezTerm Overview.md.tmp.21968.b13670da3187",
+    "Home.md.tmp.21968.bd7ba9cf0099",
+    "Chocolatey/Overview.md.tmp.21968.51c84f50fc0b",
+    "Chocolatey/Chocolatey Overview.md",
+    "Chocolatey/Chocolatey Overview.md.tmp.21968.c768a3f82b9e",
+    "SSH/SSH Passwordless Login.md",
     "SSH/SSH Key Generation.md",
     "SSH/SSH Overview.md",
     "SSH/SSH Passwordless Login.md.tmp.31608.af7ce6bce6c1",
@@ -196,10 +202,6 @@
     "Home.md.tmp.31608.e34ba8228034",
     "Home.md.tmp.31608.79ee1eb0f956",
     "SSH/SSH Config and Troubleshooting.md",
-    "SSH/SSH Config and Troubleshooting.md.tmp.31608.8ff816da8b48",
-    "SSH/SSH Passwordless Login.md",
-    "SSH/SSH Passwordless Login.md.tmp.31608.8c7636b8a0ce",
-    "SSH/SSH Key Generation.md.tmp.31608.db0cddbd566b",
     "WezTerm/WezTerm Key Bindings.md",
     "WezTerm/WezTerm Panes and Tabs.md",
     "WezTerm/WezTerm Tips and Workflows.md",
@@ -219,7 +221,6 @@
     "Vim/Vim Overview.md",
     "Tmux/Tmux Panes.md",
     "Tmux/Tmux Windows.md",
-    "Tmux/Tmux Advanced Techniques.md",
     "Untitled.canvas"
   ]
 }

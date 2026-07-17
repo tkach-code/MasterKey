@@ -118,4 +118,14 @@ Welcome to your second brain for mastering **Git**, **Vim**, **Obsidian**, and *
 
 ---
 
-#git #vim #obsidian #tmux #wezterm #ssh
+## Chocolatey
+
+> Command-line package manager for installing and updating Windows software.
+
+| Note | Description |
+|------|-------------|
+| [[Overview\|Chocolatey Overview]] | Install, upgrade, uninstall, and export/import packages with `choco` |
+
+---
+
+#git #vim #obsidian #tmux #wezterm #ssh #chocolatey

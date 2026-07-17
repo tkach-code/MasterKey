@@ -64,6 +64,7 @@ return {
 
 - [[Tmux Overview]] - terminal multiplexing concepts that carry over
 - [[Shell Basics]] - the shell WezTerm hosts
+- [[Overview\|Chocolatey Overview]] - install WezTerm with `choco install wezterm`
 - [[Home]]
 
 #wezterm #beginner

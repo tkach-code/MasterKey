@@ -111,6 +111,7 @@ zsh
 ## Related
 
 - [[Tmux Overview]] - Running shells inside Tmux
+- [[Overview\|Chocolatey Overview]] - Windows package manager you run from the shell
 - [[Home]]
 
 #beginner
