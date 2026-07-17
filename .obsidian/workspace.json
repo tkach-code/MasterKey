@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38b9a4d4a68049ee",
+        "id": "fe935ecbaba172cf",
         "type": "tabs",
         "children": [
           {
-            "id": "474674de9ab4e37b",
+            "id": "040eb092df9a12d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "474674de9ab4e37b",
+  "active": "040eb092df9a12d4",
   "lastOpenFiles": [
+    "Chocolatey/Overview.md",
+    "Home.md",
     "WezTerm/WezTerm Overview.md.tmp.21968.b13670da3187",
     "Home.md.tmp.21968.bd7ba9cf0099",
     "Chocolatey/Overview.md.tmp.21968.51c84f50fc0b",
@@ -198,9 +200,7 @@
     "SSH/SSH Overview.md.tmp.31608.146931d771fb",
     "SSH/SSH Key Generation.md.tmp.31608.a2f4178af13c",
     "SSH/SSH Key Generation.md.tmp.31608.864caf8a9fbd",
-    "Home.md",
     "Home.md.tmp.31608.e34ba8228034",
-    "Home.md.tmp.31608.79ee1eb0f956",
     "SSH/SSH Config and Troubleshooting.md",
     "WezTerm/WezTerm Key Bindings.md",
     "WezTerm/WezTerm Panes and Tabs.md",
