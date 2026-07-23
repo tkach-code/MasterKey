@@ -6,6 +6,10 @@ return {
   --font = wezterm.font("JetBrainsMono Nerd Font"),
   font_size = 12,
 
+  initial_rows = 35,
+  initial_cols = 135,
+
+
   color_scheme = "Tokyo Night",
 
   window_background_opacity = 0.94,
